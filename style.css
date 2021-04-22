@@ -69,7 +69,7 @@ li a:hover {
 }
 .user-card {
     width: auto;
-    height: 300px auto;
+    height: auto;
     margin-bottom: 40px;
 }
 .info h1 {
@@ -90,7 +90,7 @@ li a:hover {
     align-items: center;
 }
 .banner .number {
-    margin-left: 20px;
+    margin-left: 15px;
     height: 40px;
     min-width: 40px;
     background-color: lightgray;
